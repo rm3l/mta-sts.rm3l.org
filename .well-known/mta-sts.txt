@@ -1,6 +1,7 @@
 version: STSv1
-mode: enforce
+mode: testing
 mx: rm3l.org
 mx: soro.io
 mx: home.soro.io
+mx: box.soro.io
 max_age: 1209600
